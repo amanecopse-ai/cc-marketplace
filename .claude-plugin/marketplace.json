@@ -11,6 +11,12 @@
   },
   "plugins": [
     {
+      "name": "kotlin-lsp",
+      "source": "./plugins/kotlin-lsp",
+      "description": "Kotlin Language Server Protocol (LSP) plugin for Claude Code",
+      "version": "1.0.0"
+    },
+    {
       "name": "sugar",
       "source": "./plugins/sugar",
       "description": "Transform Claude Code into an autonomous AI development powerhouse with rich task context, specialized agents, and intelligent workflow automation",
