@@ -1,0 +1,5 @@
+{
+  "name": "kotlin-lsp",
+  "description": "Kotlin Language Server Protocol (LSP) plugin for Claude Code",
+  "version": "1.0.0"
+}
